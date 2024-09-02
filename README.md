@@ -1,4 +1,4 @@
-- 👋 Hi, my name is **Otis**
+- 👋 Hi, we are **Origami Tech**
 - 👀 I am a Web Developer & Data Engineer
 - 🌱 My skills include:
   - JavaScript
@@ -10,8 +10,7 @@
   - HTML
   - CSS
   - Python
-- 💞️ I’m looking to collaborate on web projects and have some of my own projects in the pipeline, so watch this space.
-- 📫 How to reach me **otisfrancis1@gmail.com**
+- 📫 How to reach me **origamitech29@gmail.com**
 
 <!---
 ofranc29/ofranc29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
