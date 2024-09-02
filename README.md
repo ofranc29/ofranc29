@@ -1,10 +1,11 @@
 - 👋 Hi, we are **Origami Tech**
-- 👀 I am a Web Developer & Data Engineer
-- 🌱 My skills include:
+- 👀 We do Web Dev & Data Engineering
+- 🌱 Our skills include:
   - JavaScript
   - Node.js
   - React
   - SQL
+  - Azure Cloud Tech
   - JSON
   - XML
   - HTML
