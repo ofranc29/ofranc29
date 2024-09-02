@@ -11,7 +11,7 @@
   - HTML
   - CSS
   - Python
-- 📫 How to reach me **origamitech29@gmail.com**
+- 📫 How to reach us **origamitech29@gmail.com**
 
 <!---
 ofranc29/ofranc29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
