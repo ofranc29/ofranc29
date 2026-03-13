@@ -1,4 +1,4 @@
-- 👋 Hi, we are **Origami Tech**
+- 👋 Hi, we are **oteq consulting**
 - 👀 We do Web Dev & Data Engineering
 - 🌱 Our skills include:
   - JavaScript
@@ -11,7 +11,6 @@
   - HTML
   - CSS
   - Python
-- 📫 How to reach us **origamitech29@gmail.com**
 
 <!---
 ofranc29/ofranc29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
